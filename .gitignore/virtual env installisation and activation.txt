@@ -1,0 +1,4 @@
+virtualenv env
+\\ error: The term 'virtualenv' is not recognized as the name of a cmdlet, function, script file, or operable program. uninstall and then install it .
+.\env\Scripts\activate.ps1
+\\ if you are getting error while activate please run this command in run as administration. Set-ExecutionPolicy unrestricted

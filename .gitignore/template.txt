@@ -1,0 +1,1 @@
+the component inside that can be render using render_template
