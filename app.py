@@ -53,4 +53,4 @@ def products():
     print(allTodo)
     return "this is todo list page\n" + str(allTodo)
 if __name__ == "__main__":
-    app.run(debug = True, port = 8000)
+    app.run(debug = False, host = '0.0.0.0')
